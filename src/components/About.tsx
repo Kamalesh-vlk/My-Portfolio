@@ -40,7 +40,7 @@ export default function About() {
             <div className="w-full aspect-square bg-gradient-to-br from-[#6366F1] to-[#F59E0B] rounded-3xl p-1">
               <div className="w-full h-full bg-[#1E293B] rounded-3xl flex items-center justify-center">
                 <img
-                  src="/profile1.jpg"
+                  src="/profile2.jpg"
                   alt="Profile"
                   className="w-full h-full object-contain rounded-3xl"
                 />
